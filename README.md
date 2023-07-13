@@ -1,3 +1,3 @@
 # Cypress-demo
 
-Sample python code foe word counter
+Sample python code for word counter
